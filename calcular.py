@@ -1,4 +1,3 @@
-valor = 10
 valor = input('digite um valor: ')
 valor = float(valor)
 avista = valor * 0.9
